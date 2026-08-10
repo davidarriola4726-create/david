@@ -1,0 +1,6 @@
+{
+  "name": "Control de Mantenimiento de Vehículos",
+  "description": "Sistema de gestión y control de mantenimiento automotriz por placa, subcarpetas por vehículo, alertas por color, calendario e informes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
